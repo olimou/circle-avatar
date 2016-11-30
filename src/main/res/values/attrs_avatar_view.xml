@@ -1,0 +1,8 @@
+<resources>
+	<declare-styleable name="AvatarView">
+		<attr name="avatarUrl" format="string"/>
+		<attr name="text" format="string"/>
+		<attr name="color"/>
+		<attr name="randomColor" format="integer"/>
+	</declare-styleable>
+</resources>
