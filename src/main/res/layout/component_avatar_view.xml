@@ -3,6 +3,7 @@
 			 xmlns:app="http://schemas.android.com/apk/res-auto"
 			 android:layout_width="match_parent"
 			 android:layout_height="match_parent">
+
 	<com.facebook.drawee.view.SimpleDraweeView
 		android:id="@+id/circular_imageview"
 		android:layout_width="match_parent"
@@ -10,6 +11,7 @@
 		android:layout_gravity="center"
 		app:placeholderImage="@color/red_500"
 		app:roundAsCircle="true"/>
+
 	<TextView
 		android:id="@+id/textview"
 		android:layout_width="wrap_content"
